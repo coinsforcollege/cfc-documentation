@@ -2,6 +2,12 @@
 sidebar_position: 6
 ---
 
+| Name | Grade |
+| ---- | ----- |
+| Samar | 5th |
+
+
+
 # Congratulations!
 
 You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
